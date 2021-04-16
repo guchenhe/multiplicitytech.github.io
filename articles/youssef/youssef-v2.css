@@ -63,6 +63,7 @@ a:hover {
 
 h2 {
 	font-size: 80px;
+	font-family: ministry;
 	color: var(secondary);
 	line-height: 45%
 }
